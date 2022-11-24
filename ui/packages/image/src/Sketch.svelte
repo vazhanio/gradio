@@ -15,9 +15,9 @@
 	export let brush_radius = 50;
 	export let source;
 
-	export let width = 400;
-	export let height = 200;
-	export let container_height = 200;
+	export let width = 600;
+	export let height = 400;
+	export let container_height = 400;
 
 	let mounted;
 
